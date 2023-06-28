@@ -1,6 +1,7 @@
 h1 {
-    font-size: 40px;
-}
+    font-size: 200px;
+    font-family: Calibri;
+
 
 button {
     background-color: white;
@@ -26,4 +27,5 @@ button:hover {
 .MichiButton:hover {
     background-image: linear-gradient(to bottom right, purple, pink);
     color: white;
+ 
 }
