@@ -1,4 +1,31 @@
 h1 {
     font-size: 200px;
     font-family: Calibri;
+
+
+button {
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+    font-family: sans-serif;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.MichiButton {
+    padding: 2rem;
+    border: solid purple;
+    border-radius: 20px;
+    color: purple;
+    text-decoration: none;
+}
+
+.MichiButton:hover {
+    background-image: linear-gradient(to bottom right, purple, pink);
+    color: white;
+ 
 }
